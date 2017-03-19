@@ -1,5 +1,13 @@
 # task_manager
 
+//Requirements
+<ul>
+<li>Laravel</li>
+<li>PHP 7</li>
+<li>Composer</li>
+<li>MySQL</li>
+</ul>
+
 A webbased systems taht lets you,
 
 <ul>
